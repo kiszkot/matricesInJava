@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"macierze","l":"Macierz"},{"p":"macierze","l":"Main"},{"p":"macierze","l":"MatrixIndexOutOfBoundsException"},{"p":"macierze","l":"MatrixSizeException"}]
